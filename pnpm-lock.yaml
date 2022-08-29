@@ -1,0 +1,9 @@
+lockfileVersion: 5.4
+
+importers:
+
+  packages/server:
+    specifiers:
+      '@stm-update/auto': workspace:^0.0.1
+    dependencies:
+      '@stm-update/auto': link:../auto

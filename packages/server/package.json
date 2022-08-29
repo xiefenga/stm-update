@@ -1,0 +1,9 @@
+{
+  "name": "@stm-update/server",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@stm-update/auto": "workspace:^0.0.1"
+  }
+}

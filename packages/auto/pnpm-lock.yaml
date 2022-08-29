@@ -1,0 +1,20 @@
+lockfileVersion: 5.4
+
+specifiers:
+  set-cookie-parser: ^2.5.1
+  undici: ^5.10.0
+
+dependencies:
+  set-cookie-parser: 2.5.1
+  undici: 5.10.0
+
+packages:
+
+  /set-cookie-parser/2.5.1:
+    resolution: {integrity: sha512-1jeBGaKNGdEq4FgIrORu/N570dwoPYio8lSoYLWmX7sQ//0JY08Xh9o5pBcgmHQ/MbsYp/aZnOe1s1lIsbLprQ==}
+    dev: false
+
+  /undici/5.10.0:
+    resolution: {integrity: sha512-c8HsD3IbwmjjbLvoZuRI26TZic+TSEe8FPMLLOkN1AfYRhdjnKBU6yL+IwcSCbdZiX4e5t0lfMDLDCqj4Sq70g==}
+    engines: {node: '>=12.18'}
+    dev: false
